@@ -1,5 +1,5 @@
-### Comp finance
-This course was about computational finance. The first part of the course gave us an introduction in computational finance, explained the binomial model,
+### Computational finance
+This repository was made for the course Computational Finanace at the University of Amsterdam. The first part of the course gave us an introduction in computational finance, explained the binomial model,
 Ito calculus and the Black-Scholes equation. We also learned how to delta hedge with this methods. The second part of the course learned us how to do 
 Monte Carlo approximations for option evalutations and use these approximations for more exotic options like the Asian option. For this method we also
 learned how to delta hedge and also do a delta hedge for the more exotic digital option with the pathwise method and the likelihood ratio method. In the last
